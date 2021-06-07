@@ -1,2 +1,2 @@
 # angular-gaz
-https://github.com/jqfrik/angular-gaz
+https://jqfrik.github.io/angular-gaz/login
